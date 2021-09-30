@@ -11,23 +11,12 @@
 
 <p> This organisation is the home of <i> open source </i> ! Make Pull Requests, open Issues, share ideas, help each other, fix problems! </p>
 
-<h2> In this vision of Bauddhik-Geeks there are lots of folks behind it but the special mention to those who helped in reviving the community 👨‍ </h2>
-
 </div>
-
 
 Raise an [issue to join the Baudhhik-geek organisation](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/issues/new?assignees=&labels=invite+me+to+organization&template=invite.yml&title=invite+me+to+organization).
 
 - Check out out official website 👉 [here](https://bauddhikgeeks.tech/) 
 
 - Join our Discord community 👉 [here](http://join.bauddhikgeeks.tech)   
-
-## 👨‍🎓 Community socials:
-
--   [Twitter](https://twitter.com/BauddhikGeeks) 👈
--   [Instagram](https://www.instagram.com/bauddhik_geeks) 👈
-
-<p align="right">
-  <img alt="Sloan, the sloth mascot" width="150px" src="https://user-images.githubusercontent.com/68494604/134782910-ff2a63bb-ac82-4dd7-a9fd-a0a963029342.gif">
-   <br>
-</p>
+- Check out our repositories below 👇 👇
+ 
