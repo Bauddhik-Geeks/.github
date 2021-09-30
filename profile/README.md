@@ -7,8 +7,6 @@
 
 <div align=center>
     
-<h6> Meet Hubber! Our Mascot! 🤝 </h6>
-
 <p> It is a place where all folks from different backgrounds can chill, learn and grow. 👨‍🎓 </p>
 
 <p> This organisation is the home of <i> open source </i> ! Make Pull Requests, open Issues, share ideas, help each other, fix problems! </p>
