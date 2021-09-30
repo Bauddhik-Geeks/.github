@@ -1,4 +1,4 @@
-<h1 align="center">Baudhhik Geeks</h1>
+<h1 align="center"> 👨‍🎓 Baudhhik Geeks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <h2 align="center">Vision to help the student developers or professionals </h2>
 <p align="center">
@@ -18,5 +18,16 @@
 
 Raise an [issue to join the Baudhhik-geek organisation](https://github.com/Bauddhik-Geeks/Welcome-to-Bauddhik-Geeks/issues/new?assignees=&labels=invite+me+to+organization&template=invite.yml&title=invite+me+to+organization).
 
-Join our Discord community [here](http://join.bauddhikgeeks.tech)   
-Follow our social channel [here](https://twitter.com/BauddhikGeeks)
+- Check out out official website 👉 [here](https://bauddhikgeeks.tech/) 
+
+- Join our Discord community 👉 [here](http://join.bauddhikgeeks.tech)   
+
+## 👨‍🎓 Community socials:
+
+-   [Twitter](https://twitter.com/BauddhikGeeks) 👈
+-   [Instagram](https://www.instagram.com/bauddhik_geeks) 👈
+
+<p align="right">
+  <img alt="Sloan, the sloth mascot" width="150px" src="https://user-images.githubusercontent.com/68494604/134782910-ff2a63bb-ac82-4dd7-a9fd-a0a963029342.gif">
+   <br>
+</p>
