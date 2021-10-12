@@ -2,7 +2,7 @@
 
 <h2 align="center">Vision to help the student developers or professionals </h2>
 <p align="center">
-    <img src="https://camo.githubusercontent.com/0c60db12f2001e9118c8c4f6cc5951052566dc444a7912f221d3b4aa74b681d6/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3838353036323636383835383330363539302f3838383238333631363034363632303730322f57656c636f6d655f746f5f426175646468696b2d4765656b732e676966" height="200" />
+    <img src="https://media.discordapp.net/attachments/891936469365690399/897550580912894003/Blue_Yellow_3D_Shapes_General_Twitch_Banner_3.gif"  />
 </p>
 
 <div align=center>
