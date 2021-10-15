@@ -1,4 +1,4 @@
-<h1 align="center"> 👨‍🎓 Baudhhik Geeks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center"> 👨‍🎓 Bauddhik Geeks <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <h2 align="center">Vision to help the student developers or professionals </h2>
 <p align="center">
@@ -19,4 +19,3 @@ Raise an [issue to join the Baudhhik-geek organisation](https://github.com/Baudd
 
 - Join our Discord community 👉 [here](http://join.bauddhikgeeks.tech)   
 - Check out our repositories below 👇 👇
- 
